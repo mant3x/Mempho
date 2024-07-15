@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Розвиток Мемфіс репу</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Розвиток Мемфіс репу</h1>
+        <nav>
+            <ul>
+                <li><a href="#history">Історія</a></li>
+                <li><a href="#key-figures">Ключові фігури</a></li>
+                <li><a href="#influence">Вплив</a></li>
+                <li><a href="#gallery">Галерея</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="history">
+            <h2>Історія</h2>
+            <p>Мемфіс реп виник у 1990-х роках у Мемфісі, штат Теннессі. Він відомий своїм темним, мінімалістичним звучанням і агресивними текстами.Його історія сягає початку 1990-х років, коли в місті почали з’являтися перші реп-групи та виконавці, які створювали свою унікальну музику.</p>
+        </section>
+        <section id="key-figures">
+            <h2>Ключові фігури</h2>
+            <p>До ключових фігур Мемфіс репу відносяться такі артисти як Three 6 Mafia, Project Pat, Gangsta Boo та інші.Перші кроки Мемфіс репу були зроблені завдяки таким піонерам, як DJ Spanish Fly, який є одним із засновників місцевої реп-сцени. Його мікстейпи, які розповсюджувалися в нічних клубах та на касетах, привернули увагу багатьох молодих артистів. Музика DJ Spanish Fly відзначалася сирим і агресивним звуком, що пізніше стало характерним для Мемфіс репу.</p>
+        </section>
+        <section id="influence">
+            <h2>Вплив</h2>
+            <p>Мемфіс реп мав великий вплив на сучасний хіп-хоп і допоміг формувати звук південного репу.Мемфіс реп має значний вплив на сучасний хіп-хоп. Багато сучасних артистів, таких як ASAP Rocky, Drake, та Megan Thee Stallion, відзначали вплив Мемфіс репу на свою музику. Його агресивний стиль та унікальний звук продовжують надихати нові покоління музикантів і фанатів.Таким чином, Мемфіс реп є важливою частиною історії хіп-хопу, яка продовжує розвиватися і впливати на музичну культуру сьогодні. Його багата спадщина свідчить про те, наскільки потужним і впливовим може бути локальний музичний рух.</p>
+        </section>
+        <section id="gallery">
+            <h2>Галерея</h2>
+            <div class="gallery">
+                <img src="https://m.media-amazon.com/images/I/81VnT6zok2L._UF1000,1000_QL80_.jpg" alt="Three 6 Mafia">
+                <img src="https://pbs.twimg.com/profile_images/1429030022745047043/MTdUEg0t_400x400.jpg" alt="Project Pat">
+                <img src="https://cdns-images.dzcdn.net/images/artist/cf8a5e44e91b1c14f54cb90182380a0f/500x500.jpg" alt="Gangsta Boo">
+                <img src="image2.jpg" alt="Project Pat">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Розвиток Мемфіс репу. Всі права захищено.</p>
+    </footer>
+</body>
+</html>

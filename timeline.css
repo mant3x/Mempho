@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.timeline-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.timeline {
+    position: relative;
+    padding: 20px 0;
+    list-style-type: none;
+}
+
+.timeline-item {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border-left: 3px solid #007bff;
+}
+
+.timeline-item::before {
+    content: attr(data-year);
+    position: absolute;
+    left: -100px;
+    top: 20px;
+    font-weight: bold;
+}

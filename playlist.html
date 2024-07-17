@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мемфіс Реп Плейлисти</title>
+    <link rel="stylesheet" href="playlist.css">
+</head>
+<body>
+    <div class="playlist-container">
+        <h1>Мемфіс Реп Плейлисти</h1>
+        <div class="playlist-form">
+            <input type="text" id="songName" placeholder="Назва пісні">
+            <input type="text" id="songUrl" placeholder="URL пісні">
+            <button onclick="addSong()">Додати</button>
+        </div>
+        <div class="playlist">
+            <!-- Пісні будуть додаватись тут -->
+        </div>
+        <audio id="audioPlayer" controls></audio>
+    </div>
+    <script src="playlist.js"></script>
+</body>
+</html>
